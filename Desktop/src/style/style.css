@@ -1,0 +1,29 @@
+body {
+  //background-color: #007849;
+}
+
+.PetList {
+  margin: 300px;
+  text-align: center;
+  list-style-type: none;
+  background-color: #0375B4;
+}
+
+.pet-list-image {
+  width: 100px;
+}
+.pet-list-info {
+    color:#fff;
+}
+
+.pet-detail-block {
+  background-color: #007849;
+}
+
+.pet-detail-img {
+  width:200px;
+}
+
+.pet-detail-desc {
+  margin-left: 150px;
+}
